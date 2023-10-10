@@ -1,7 +1,7 @@
 body {
     font-family: 'Cabinet Grotesk', sans-serif;
     background-color: #FFFFE3;
-    height: 95 vh;
+    height: 95vh;
 }
 
 hr {
@@ -87,7 +87,7 @@ div.heading {
     border: none;
     border-radius: 4.5px;
     background-color: #F8F8DC;
-    margin-top: 20px;
+    margin-top: 10px;
     font-weight: 600;
     font-size: 30px;
     transition: all .2s ease-in-out;
@@ -105,7 +105,7 @@ div.heading {
     color: #FFFFE3;
     font-weight: 800;
     font-size: 20px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .output-2 {
@@ -130,7 +130,7 @@ div.heading {
     border: 2px solid #F8F8DC;
     border-radius: 4.5px;
     background-color: #10100E;
-    margin-top: 20px;
+    margin-top: 10px;
     font-weight: 600;
     font-size: 30px;
     transition: all .2s ease-in-out;
@@ -140,7 +140,7 @@ div.heading {
     color: #10100E;
     border-radius: 4.5px;
     background-color: #F8F8DC;
-    margin-top: 20px;
+    margin-top: 10px;
     font-weight: 600;
     font-size: 30px;
     transition: all .2s ease-in-out;
@@ -151,5 +151,5 @@ div.heading {
     font-weight: 400;
     font-size: 14px;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
 }
